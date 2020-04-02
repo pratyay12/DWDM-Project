@@ -1,4 +1,4 @@
-# DWDM Project
+# DWDM Project on TEXT SUMMARIZATION
  
 A project on Text Summarization given in DWDM subject by Charusat University.
 
